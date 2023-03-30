@@ -12,3 +12,4 @@ class GreetingResource {
     @Produces(MediaType.TEXT_PLAIN)
     fun hello() = "Hello from RESTEasy Reactive"
 }
+
