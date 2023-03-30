@@ -10,6 +10,6 @@ class GreetingResource {
 
     @GET
     @Produces(MediaType.TEXT_PLAIN)
-    fun hello() = "Hello from RESTEasy Reactive"
+    fun hello() = "Hello from Kotlin"
 }
 
